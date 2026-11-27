@@ -1,21 +1,13 @@
 # Annadevo
 
 ## My Social Media Portfolio
+![Snapp Team](<./Snapp Team Instagram Growth Case Study.png>)
+![Karafs](<./Karafs Social Growth Case Study (1).png>)
+![Lamiz Coffee](<./Lamiz Coffee Instagram Transformation.png>)
+![Mehrzad Clinic](<./Mehrzad Clinic Instagram Growth Case Study.png>)
 
-## Instagram Pages
 
-### Snapp Team
-![Snapp Team](./snapp-team.png)
-
-### Karafs
-![Karafs](./karafs.png)
-
-### Lamiz Coffee
-![Lamiz Coffee](./lamiz-coffee.png)
-
-### Mehrzad Clinic
-![Mehrzad Clinic](./mehrzad-clinic.png)
-
+---
 ---
 
 ## Twitter Analytics
