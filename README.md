@@ -13,16 +13,43 @@
 
 ---
 
-## Twitter Analytics
+## X (Twitter) — Content Performance
 
-### Twitter Post 1
-![Twitter Post 1](./twitter-1.png)
+Selected post analytics showcasing content reach, engagement, and profile activity.
 
-### Twitter Post 2
-![Twitter Post 2](./twitter-2.png)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Post 01</h3>
+      <img src="./twitter-1.png" width="220">
+      <h2>187.8K</h2>
+      <b>Impressions</b>
+      <p>79,010 Engagements<br>314 Profile Visits</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Post 02</h3>
+      <img src="./twitter-2.png" width="220">
+      <h2>33,037</h2>
+      <b>Impressions</b>
+      <p>7,338 Engagements<br>163 Profile Visits</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Post 03</h3>
+      <img src="./twitter-3.png" width="220">
+      <h2>165.4K</h2>
+      <b>Impressions</b>
+      <p>2,025 Engagements<br>93 Profile Visits</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Post 04</h3>
+      <img src="./twitter-4.png" width="220">
+      <h2>15,604</h2>
+      <b>Impressions</b>
+      <p>6,045 Engagements<br>1,086 Profile Visits</p>
+    </td>
+  </tr>
+</table>
 
-### Twitter Post 3
-![Twitter Post 3](./twitter-3.png)
 
-### Twitter Post 4
-![Twitter Post 4](./twitter-4.png)
