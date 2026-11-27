@@ -2,9 +2,13 @@
 
 ## My Social Media Portfolio
 ![Snapp Team](<./Snapp Team Instagram Growth Case Study.png>)
+[View Instagram Page](https://www.instagram.com/snapp_team/)
 ![Karafs](<./Karafs Social Growth Case Study (1).png>)
+[View Instagram Page](https://www.instagram.com/karafs.app/)
 ![Lamiz Coffee](<./Lamiz Coffee Instagram Transformation.png>)
+[View Instagram Page](https://www.instagram.com/lamizcoffee/)
 ![Mehrzad Clinic](<./Mehrzad Clinic Instagram Growth Case Study.png>)
+[View Instagram Page](https://www.instagram.com/kasht.abro.microkasht/)
 
 
 ---
